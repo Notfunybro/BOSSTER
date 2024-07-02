@@ -1,14 +1,4 @@
-local gamePlaceId = game.PlaceId
+--BLOX FRUIT
 
-if gamePlaceId == 2753915549 then
-    BloxFruit = true
-elseif gamePlaceId == 4442272183 then
-    BloxFruit = true
-elseif gamePlaceId == 7449423635 then
-    BloxFruit = true
-else
-    error("EZ.")
-end
 
--- W SWITE
 loadstring(game:HttpGet("https://paste.myconan.net/498437.txt"))()
